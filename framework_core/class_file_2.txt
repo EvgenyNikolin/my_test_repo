@@ -1,5 +1,0 @@
-class2
-class2 impl
-rrrrrrrrrrr
-ttttttttttt
-yyyyyyyyyyy
